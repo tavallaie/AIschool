@@ -5,7 +5,7 @@ As required by the license, **you must give appropriate credit** to the creators
 
 ## Core Creators
 
-- **Ali Tavallaie** – [@yourgithub](https://github.com/tavallaie)  
+- **Ali Tavallaie** – [@tavallaie](https://github.com/tavallaie)  
   *Original author, project lead*
 
 ## Additional Contributors
