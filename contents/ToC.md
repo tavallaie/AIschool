@@ -1,4 +1,10 @@
 
+
+Of course! Expanding on text AI is a great idea, as it's the most common entry point for students. Adding an extra week gives us the flexibility to do it properly.
+
+Here is the updated `ToC.md` file, now structured for a 26-week course with a full week dedicated to text AI.
+
+```markdown
 # Introduction to AI: A Practical Guide for High School Students
 
 Welcome to our "Introduction to AI" course materials! This curriculum is designed specifically for high school students and focuses on making Artificial Intelligence accessible, engaging, and fun.
@@ -18,10 +24,10 @@ Welcome to our "Introduction to AI" course materials! This curriculum is designe
 
 ## Table of Contents
 
-This course is structured into six modules, delivered over 25 weeks (1.2 hours per week).
+This course is structured into six modules, delivered over **26 weeks** (1.2 hours per week).
 
-### **Module 1: Introduction to AI Through Prompts (Weeks 1-3)**
-*Goal: To demystify AI and introduce the core concept of prompting through interactive activities.*
+### **Module 1: Introduction to AI Through Prompts & Tools (Weeks 1-4)**
+*Goal: To demystify AI and introduce the core concepts of prompting and different AI modalities through interactive activities.*
 
 *   **Week 1: What is AI? - The Prompt Perspective**
     *   AI as systems that respond to our instructions.
@@ -35,154 +41,160 @@ This course is structured into six modules, delivered over 25 weeks (1.2 hours p
     *   Examples of good vs. bad prompts.
     *   Hands-on: Simple text generation with different prompts.
 
-*   **Week 3: Exploring Different AI Types Through Prompts**
-    *   Text AI (chatbots, writing assistants).
-    *   Image AI (creating pictures from descriptions).
-    *   Voice AI (speech recognition and generation).
-    *   Activity: Try different AI tools with prepared prompts.
+*   **Week 3: Deep Dive into Text AI**
+    *   Exploring the world of chatbots and conversational AI.
+    *   Using AI as a writing assistant (for essays, emails, and stories).
+    *   Discovering how AI can summarize, explain, and brainstorm.
+    *   Activity: A "debate" with an AI on a fun topic.
 
-### **Module 2: Becoming a Prompt Engineer (Weeks 4-7)**
+*   **Week 4: Exploring Image & Voice AI**
+    *   Introduction to AI that creates pictures from text descriptions.
+    *   Hands-on: Generate your first AI images.
+    *   Understanding voice recognition (how Siri hears you).
+    *   Fun with voice synthesis (making AI say funny things).
+
+### **Module 2: Becoming a Prompt Engineer (Weeks 5-8)**
 *Goal: To master the art of crafting effective prompts to get the desired results from any AI.*
 
-*   **Week 4: Context in Prompting**
+*   **Week 5: Context in Prompting**
     *   Why AI needs context.
     *   The four elements: Role, Audience, Purpose, Style.
     *   Practice: Rewriting vague prompts with context.
     *   Group activity: Create prompts for different scenarios.
 
-*   **Week 5: Role Assignment in Prompts**
+*   **Week 6: Role Assignment in Prompts**
     *   Professional roles vs. personality-based roles.
     *   Strong vs. weak role assignments.
     *   Activity: Experiment with different roles for the same topic.
     *   Challenge: Create the most effective role for a specific task.
 
-*   **Week 6: Crafting Detailed Prompts**
+*   **Week 7: Crafting Detailed Prompts**
     *   Step-by-step instructions.
     *   Including examples in prompts.
     *   Setting output parameters.
     *   Workshop: Improving classmates' prompts.
 
-*   **Week 7: Advanced Prompt Techniques**
+*   **Week 8: Advanced Prompt Techniques**
     *   Chain-of-thought prompting.
     *   Few-shot learning with examples.
     *   Creative applications.
     *   Project: Create a set of prompts for a specific purpose.
 
-### **Module 3: AI in Our World (Weeks 8-11)**
+### **Module 3: AI in Our World (Weeks 9-12)**
 *Goal: To explore the diverse and impactful ways AI is integrated into our daily lives.*
 
-*   **Week 8: AI in Entertainment**
+*   **Week 9: AI in Entertainment**
     *   Recommendation systems (Netflix, Spotify, TikTok).
     *   Game AI and NPCs.
     *   AI-generated content (music, art, stories).
     *   Activity: Analyze recommendation algorithms.
 
-*   **Week 9: AI in Communication**
+*   **Week 10: AI in Communication**
     *   Translation tools.
     *   Voice assistants.
     *   Social media algorithms.
     *   Hands-on: Test different translation and voice tools.
 
-*   **Week 10: AI in Daily Life**
+*   **Week 11: AI in Daily Life**
     *   Smart home devices.
     *   Navigation apps.
     *   Photo organization and enhancement.
     *   Discussion: How AI makes life easier.
 
-*   **Week 11: AI Ethics and Responsibility**
+*   **Week 12: AI Ethics and Responsibility**
     *   Privacy concerns.
     *   Bias in AI systems.
     *   The importance of responsible AI use.
     *   Debate: Ethical dilemmas in AI applications.
 
-### **Module 4: Creating with AI (Weeks 12-16)**
+### **Module 4: Creating with AI (Weeks 13-17)**
 *Goal: To use AI as a creative partner for generating text, images, and solutions.*
 
-*   **Week 12: Introduction to AI Image Generation**
+*   **Week 13: Introduction to AI Image Generation**
     *   How AI creates images from text.
     *   Popular image generation tools.
     *   Basic image prompting techniques.
     *   Activity: Create images with simple prompts.
 
-*   **Week 13: Advanced Image Prompting**
+*   **Week 14: Advanced Image Prompting**
     *   Style and composition in image prompts.
     *   Creating consistent characters.
     *   Editing and refining AI images.
     *   Project: Create a visual story with AI images.
 
-*   **Week 14: AI for Creative Writing**
+*   **Week 15: AI for Creative Writing**
     *   Story generation with AI.
     *   Poetry and lyrics creation.
     *   Brainstorming with AI assistants.
     *   Workshop: Collaborative story writing with AI.
 
-*   **Week 15: AI for Presentations and Content**
+*   **Week 16: AI for Presentations and Content**
     *   Creating slides with AI.
     *   Summarizing information.
     *   Generating educational content.
     *   Activity: Create a mini-presentation on a topic using AI.
 
-*   **Week 16: AI for Problem Solving**
+*   **Week 17: AI for Problem Solving**
     *   Using AI as a thinking partner.
     *   Breaking down complex problems.
     *   Generating solutions and alternatives.
     *   Challenge: Solve a class problem using AI assistance.
 
-### **Module 5: AI Beyond Text (Weeks 17-20)**
+### **Module 5: AI Beyond Text (Weeks 18-21)**
 *Goal: To understand how AI perceives and interacts with the physical world through sight and sound.*
 
-*   **Week 17: Computer Vision Basics**
+*   **Week 18: Computer Vision Basics**
     *   How computers "see" images.
     *   Object detection in everyday life.
     *   Face recognition technology.
     *   Demo: Simple computer vision tools.
 
-*   **Week 18: Voice and Sound AI**
+*   **Week 19: Voice and Sound AI**
     *   Speech recognition technology.
     *   Voice synthesis.
     *   Music generation with AI.
     *   Activity: Create AI-generated music or voice clips.
 
-*   **Week 19: AI in Robotics**
+*   **Week 20: AI in Robotics**
     *   How robots use AI.
     *   Simple programming concepts (no math).
     *   Real-world robot applications.
     *   Video examples and discussion.
 
-*   **Week 20: AI and Data**
+*   **Week 21: AI and Data**
     *   How AI learns from information.
     *   Pattern recognition in daily life.
     *   Simple data visualization with AI.
     *   Activity: Analyze simple datasets with AI tools.
 
-### **Module 6: Building Your Own AI Projects (Weeks 21-25)**
+### **Module 6: Building Your Own AI Projects (Weeks 22-26)**
 *Goal: To apply all learned skills in a comprehensive, student-driven final project.*
 
-*   **Week 21: Planning Your AI Project**
+*   **Week 22: Planning Your AI Project**
     *   Identifying problems AI can solve.
     *   Project brainstorming.
     *   Setting project goals.
     *   Proposal: Outline your final project idea.
 
-*   **Week 22: Gathering Resources for Your Project**
+*   **Week 23: Gathering Resources for Your Project**
     *   Finding the right AI tools.
     *   Creating a resource library.
     *   Planning your workflow.
     *   Workshop: Share project ideas and get feedback.
 
-*   **Week 23: Developing Your Project**
+*   **Week 24: Developing Your Project**
     *   Hands-on project work.
     *   Troubleshooting with AI.
     *   Peer feedback session.
     *   Progress check-in.
 
-*   **Week 24: Finalizing Your Project**
+*   **Week 25: Finalizing Your Project**
     *   Project refinement.
     *   Preparing presentations.
     *   Rehearsal and feedback.
     *   Final touches.
 
-*   **Week 25: Project Showcase and Course Reflection**
+*   **Week 26: Project Showcase and Course Reflection**
     *   Student project presentations.
     *   Course reflection and discussion.
     *   Future paths in AI.
@@ -202,3 +214,4 @@ The materials in this repository are organized to follow the course structure ab
     *   `activities/`: A folder containing handouts, worksheets, or links to online tools.
 
 We hope you find these materials valuable and inspiring. Let's start exploring the world of AI!
+```
