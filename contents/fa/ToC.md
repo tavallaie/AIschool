@@ -1,5 +1,15 @@
-<div dir="rtl">
-
+<div dir="rtl" style="text-align: right; direction: rtl;">
+<style>
+  ul, ol {
+    direction: rtl;
+    text-align: right;
+    padding-right: 2em;
+    padding-left: 0;
+  }
+  li {
+    text-align: right;
+  }
+</style>
 # مقدمه‌ای بر هوش مصنوعی: راهنمای عملی برای دانش‌آموزان دبیرستانی
 
 خوش آمدید به مجموعهٔ آموزشی «مقدمه‌ای بر هوش مصنوعی»! این برنامهٔ درسی به‌طور خاص برای دانش‌آموزان دبیرستانی طراحی شده و هدفش این است که هوش مصنوعی را ساده، جذاب و سرگرم‌کننده کند.
