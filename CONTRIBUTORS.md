@@ -7,6 +7,6 @@ As required by the license, **you must give appropriate credit** to the creators
 
 - **Ali Tavallaie** – [@tavallaie](https://github.com/tavallaie)  
   *Original author, project lead*
-- **Yasamin Ashoori** -[@yasaminashoori](https://github.com/yasaminashoori)
+- **Yasamin Ashoori** – [@yasaminashoori](https://github.com/yasaminashoori)  
   *Co-author, contributor*
 ## Additional Contributors
